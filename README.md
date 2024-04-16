@@ -42,4 +42,5 @@
 - O check-in no evento será realizado através de um QRCode;
 
 Estrutura do banco 
+
 ![image](https://github.com/thiagogimenes/pass-in/assets/59589489/417c9be5-990b-4ac9-a8ec-fcf9417b38af)
