@@ -1,8 +1,6 @@
 package rocketseat.com.passin.controllers;
 
-import com.sun.java.accessibility.util.EventID;
 import lombok.RequiredArgsConstructor;
-import org.apache.coyote.Response;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

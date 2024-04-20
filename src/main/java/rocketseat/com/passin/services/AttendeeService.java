@@ -1,7 +1,6 @@
 package rocketseat.com.passin.services;
 
 import lombok.RequiredArgsConstructor;
-import org.springframework.cglib.core.Local;
 import org.springframework.stereotype.Service;
 import org.springframework.web.util.UriComponentsBuilder;
 import rocketseat.com.passin.domain.attendee.Attendee;
@@ -13,7 +12,6 @@ import rocketseat.com.passin.dto.attendee.AttendeeDetails;
 import rocketseat.com.passin.dto.attendee.AttendeesListResponseDTO;
 import rocketseat.com.passin.dto.attendee.AttendeeBadgeDTO;
 import rocketseat.com.passin.repositories.AttendeeRepository;
-import rocketseat.com.passin.repositories.CheckinRepository;
 
 import java.time.LocalDateTime;
 import java.util.List;
